@@ -1,0 +1,20 @@
+/*
+  good_balance.cpp
+  Test data for CS2 Project 4 
+  */
+  
+  #include <iostream>
+  using namespace std;
+
+#define FOO   '{'
+#define BAR   "' /* ' "
+
+int main(int argc, char * argv[])
+{
+  char c = {'a';}
+  y = 3;   
+  z = 4; 
+  x = y * z;
+  y = x / z;
+  std::cout << "Hello world\n"; // :)
+}
